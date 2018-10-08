@@ -4,5 +4,5 @@ artifact_type: GAPIC
 organization_name: google-cloud
 proto_deps:
 - name: google-common-protos
-proto_path: google/cloud/bigquery/
+proto_path: google/cloud/bigquery/datatransfer/v1
 release_level: null
